@@ -1,6 +1,6 @@
-# viz-wallet
+# Bakhu
 
-**viz-wallet** is a minimalist personal finance tracker that helps you manage your income, expenses, and savings with clarity. Built for ease of use, security, and modern web performance.
+**Bakhu** is a minimalist personal finance tracker that helps you manage your income, expenses, and savings with clarity. Built for ease of use, security, and modern web performance.
 
 ---
 
