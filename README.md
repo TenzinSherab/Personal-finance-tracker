@@ -62,3 +62,6 @@ npm run dev
 npm run build
 
 ```
+### Preview
+![bakhu preview](./89.png)
+![bakhu preview](./99.png)
